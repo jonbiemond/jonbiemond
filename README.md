@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a Data Analyst by trade, passionate about software devlopment, software design and telling stories with data!
+- Currently working on: [PandasAi](https://github.com/gventuri/pandas-ai) 🐼
+
 <!--
 **jonbiemond/jonbiemond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
