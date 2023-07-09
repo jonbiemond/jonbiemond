@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Data Analyst by trade, passionate about software devlopment, software design and telling stories with data!
+I'm a Data Analyst by trade, passionate about software development, software design and telling stories with data!
 - Currently working on: [PandasAi](https://github.com/gventuri/pandas-ai) 🐼 ([contributions](https://github.com/gventuri/pandas-ai/commits?author=jonbiemond))
 
 <!--
